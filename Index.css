@@ -1,10 +1,18 @@
 body {
     text-align: center;
     font-family: 'Inter', sans-serif;
+    width: 550px;
+height: 729px;
+left: 76px;
+top: 126px;
+
+background: #F4F4F4;
 }
 
 .result {
     border: 2px solid black;
+    width: 50%;
+    margin: auto;
 }
 
 
@@ -14,4 +22,13 @@ body {
 
 .upperdiv {
     border: 2px solid black;
+    height: 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 550px;
+height: 285px;
+left: 0px;
+top: 0px;
 }
